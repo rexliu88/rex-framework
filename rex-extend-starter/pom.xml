@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.rexliu88.rex-framework</groupId>
     <artifactId>rex-extend-starter</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>rex-extend-starter</name>
 
